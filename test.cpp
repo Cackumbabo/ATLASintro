@@ -1,6 +1,7 @@
 #include <opencv2/dnn.hpp>
 #include <librealsense2/rs.hpp>
 #include "../cv-helpers.hpp"
+#include <iostream>
 
 int main( int argc, char** argv )
 {
